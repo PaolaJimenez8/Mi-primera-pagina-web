@@ -1,0 +1,30 @@
+<html>
+<head>
+<TITLE> Formulario </TITLE>
+</head>
+<body>
+<form action = 2cgi-bin/form" method="post">
+<pre> 
+NOMBRE: <INPUT NAME = "nombre" SIZE=30>
+CALLE: <INPUT NAME = "calle" SIZE=40>
+DOMICILIO: <INPUT NAME = "localidad" SIZE=35>
+ESTADO: <INPUT NAME = "prov" SIZE=25>
+COD. POSTAL: <INPUT NAME = "cp" SIZE=5 MAXLENGTH05>
+</pre>
+
+<br>
+</br>
+
+<ifrm src = "pon url dirección maps" width= "600" height= "450" framborder= "0" sytle= "borde:0;""allowfullscreen">
+</ifrm>
+
+<br>
+</br>
+
+<INPUT TYPE="SUMBIT"VALUE="ENVIAR"ONCLIK="parent.location"="patriciosa01@gmail.com">
+<INPUT TYPE="RESET"VALUE="BORRAR">
+
+</form>
+</body>
+</html>
+ 

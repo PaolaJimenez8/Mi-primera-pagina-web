@@ -1,0 +1,7 @@
+<html>
+<TITLE> Mi primera pagina </TITLE>
+<body bgcolor = "sky blue">
+<h1> Mi hobby favorito: Ir al gym </h1>
+<p> Entreno con mi novio, y es algo que me motiva y me ayuda relajarme cada dia </p>
+</body>
+</html>

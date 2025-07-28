@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> partición </title>
+</head>
+
+<FRAMESET ROWS ="600,600">
+<FRAMESET COLS ="600,600">
+
+<FRAME SRC= "miprimerapagina.html">
+<FRAME SRC= "paginaenmovimiento.html">
+
+</frameset>
+<frameset cols="600,600">
+
+<FRAME SRC= "collage.html">
+<FRAME SRC= "formulario.html">
+
+</frameset>
+<frame src="">
+<frame src="">
+
+</frameset>
+</html>

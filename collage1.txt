@@ -1,0 +1,15 @@
+<html>
+<title> Collage </title>
+<body bgcolor="sky blue">
+<h1>El dóberman</h1>
+<marquee><p>El dóberman es una raza de perro elegante, fuerte e inteligente.</p></marquee>
+<br></br>
+<center>
+<img src="doberman1.png" height="400" width="400"></img> 
+<br></br>
+<img src="C:\Users\Paola\Downloads\doberman.gif-ANIMATION.gif"></img>
+<br></br>
+<video src="C:\Users\Paola\Downloads\doberman.mp4.mov" autoplay muted loop></video>
+</center>
+</body>
+</html>
